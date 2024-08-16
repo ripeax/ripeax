@@ -1,5 +1,4 @@
 - 👀 I’m interested in technology
-- 🌱 Dual degree in Computing & IT and Electronic & Electrical Engineering
 - :D studies for OffSec Certs
 
 - Currently creating portofolio projects
