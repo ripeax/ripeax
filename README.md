@@ -1,6 +1,6 @@
-- 👀 I’m interested in technology
+- Developing programming languages atm
 - :D studies for OffSec Certs
-
+- Lives in UK
 - Currently creating portofolio projects
 
 <!---
